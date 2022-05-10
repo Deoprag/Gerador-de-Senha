@@ -114,3 +114,14 @@ body{
     bottom: 50px;
     opacity: 1;
 }
+
+footer p{
+    margin-top: 30px;
+    text-align: center;
+}
+footer a{
+    color: white;
+    text-decoration: none;
+    font-size: 15pt;
+    font-style: italic;
+}
